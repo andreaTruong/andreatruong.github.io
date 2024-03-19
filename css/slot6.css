@@ -1,0 +1,14 @@
+#canphai{
+    text-align: right;
+    color:red;
+}
+#gachduoi{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', sans-serif;
+   text-align: center;
+   text-decoration: underline; 
+}
+.mangkinh{
+    color: blue;
+    text-align: left;
+    font-style: italic;
+}
